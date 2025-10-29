@@ -1,5 +1,5 @@
 # Differntial Privacy
-## 1. The Core Idea
+## 1. The Concept
 
 Differential Privacy (DP) is a privacy framework designed to let organizations analyze and share data insights without revealing information about any individual in the dataset.
 It ensures that the output of a computation is almost the same, whether or not any one person’s data is included — meaning no single individual can be identified or singled out from the results.
