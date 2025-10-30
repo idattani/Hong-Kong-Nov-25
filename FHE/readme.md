@@ -36,4 +36,4 @@ Homomorphic encryption provides strong end-to-end privacy, making it ideal for s
 * Finance: Banks perform risk assessments on encrypted client data.
 * AI/ML: Privacy-preserving model inference and training.
 ## 4. Demo
-You will find a Juypter Notebook. Upload to Google Colab and follow the instructions.
+You will find a Juypter Notebook called "Homomorphic_Encryption". Upload to Google Colab and follow the instructions.
