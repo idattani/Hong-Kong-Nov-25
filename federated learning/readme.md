@@ -42,4 +42,4 @@ It’s especially useful when data can’t be centralized due to privacy laws or
 * Finance: Banks collaborate to detect fraud patterns without exposing client data.
 
 ## 4. Demo
-In the folder you will find a Juypter Notebook. Upload the notebook to Google Colab, then follow the notebook.
+In the folder you will find a Juypter Notebook called "Federated_Learning". Upload the notebook to Google Colab, then follow the notebook.
