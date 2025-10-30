@@ -46,4 +46,4 @@ Enables safe data sharing: Organizations can publish useful analytics without ex
 * Research and AI: Used to safely train machine learning models on sensitive datasets.
 
 ## 4. Demo 
-Download the Juypter Notebook and open it in Google Colab. You will also need to pick one of the datasets for use in the notebook. 
+Download the Juypter Notebook called "Differntial_Privacy" and open it in Google Colab. You will also need to pick one of the datasets for use in the notebook. 
