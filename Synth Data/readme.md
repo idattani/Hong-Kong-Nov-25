@@ -33,7 +33,7 @@ In short, synthetic data helps organizations unlock the power of data without th
 
 ## 4. Demo
 
-Below is the link to the demo. Find the dataset called "Heart_Deisease_Dataset" in the folder download it. Then upload to the generator.
+Below is the link to the demo. Find the dataset called "Heart_Disease_Dataset" in the folder download it. Then upload to the generator.
 
 [ACCESS THE DEMO HERE](https://synth.assentian.com/)
 
