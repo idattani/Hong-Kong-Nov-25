@@ -36,3 +36,6 @@ In short, synthetic data helps organizations unlock the power of data without th
 Below is the link to the demo. Find the dataset in the folder download it. Then upload to the generator.
 
 [ACCESS THE DEMO HERE](https://synth.assentian.com/)
+
+## 5. Images Demo
+You will find a Juypter notebook. Called "Synth_Image_Generation" upload this notebook to colab and follow the instructions.
